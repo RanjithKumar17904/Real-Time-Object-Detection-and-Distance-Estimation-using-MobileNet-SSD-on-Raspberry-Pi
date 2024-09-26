@@ -141,7 +141,7 @@ Feel free to contribute by:
 - Optimizing the script for performance.
 
 This is the hardware setup we had done with raspberry-pi
-![Hardware Setup](setup image.png)
+-![Hardware Setup](setup image.jpg)
 
 ## License
 
