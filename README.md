@@ -140,6 +140,9 @@ Feel free to contribute by:
 - Improving distance estimation accuracy.
 - Optimizing the script for performance.
 
+This is the hardware setup we had done with raspberry-pi
+![Hardware Setup](setup image.png)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
