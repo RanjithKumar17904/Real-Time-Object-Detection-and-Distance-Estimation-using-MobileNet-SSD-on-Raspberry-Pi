@@ -141,7 +141,7 @@ Feel free to contribute by:
 - Optimizing the script for performance.
 
 This is the hardware setup we had done with raspberry-pi
--![Hardware Setup](setup image.jpg)
+-![Hardware Setup](https://github.com/RanjithKumar17904/Real-Time-Object-Detection-and-Distance-Estimation-using-MobileNet-SSD-on-Raspberry-Pi/blob/main/setup%20image.jpg)
 
 ## License
 
